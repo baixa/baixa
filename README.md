@@ -12,9 +12,6 @@
 </div>
 
 <div id="content">
-  <div align="center">
-    <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif" width="400"/>
-  </div>
   ### :man_technologist: About Me :
   I am a Backend Developer <img src="https://media.giphy.com/media/se6QSoA9i3SnuqOBrm/giphy.gif" width="30"> from Russia.
   
